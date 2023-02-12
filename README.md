@@ -1,5 +1,6 @@
 # CalibrateInputShaping
 A script for Cura to calibrate input shaping
+Tested on Cura 5.2.1
 
 To be used with the ringing_tower.stl as explained in https://marlinfw.org/docs/gcode/M593.html
 
