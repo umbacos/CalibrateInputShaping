@@ -6,6 +6,7 @@ To be used with the ringing_tower.stl as explained in https://marlinfw.org/docs/
 
 If you have a PC, place this python script in C:\USERS\\\<user name>\AppData\Roaming\cura\scripts
 or if you have a Mac, place it here /Users/\<user name>/Library/Application Support/cura/\<latest cura version>/scripts
+Beware: the paths above depend on your Windows, MacOS and Cura version, so might differ slightly...
 
 then:
 
